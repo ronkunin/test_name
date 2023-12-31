@@ -3,6 +3,7 @@ index,username,name,lastname,gender,country,birthdate,deathdate,bio,partner,moth
 2,2,Alex,Ratnitzky,M,Russia,11/05/1950,,Else,AnnaRatnitzky,RozaRatnitzky,BorisRatnitzky
 3,3,Mark,Kunin,M,Russia,30/10/1947,,Else,AllaKunin,,
 4,4,Anna,Ratnitzky,F,Russia,11/09/1956,,Else,AlexRatnitzky,EmmaRumar,PesahRumar
+4,4,Leon,Rumar,M,Russia,11/09/1956,,Else,,EmmaRumar,PesahRumar
 5,5,Alla,Kunin,F,Russia,01/01/1980,,Else,MarkKunin,,
 6,6,Alex,Kunin,M,Russia,03/11/1976,,Engineer,AlinaKunin,AllaKunin,MarkKunin
 7,7,Alina,Kunin,F,Russia,17/11/1979,,Engineer,AlexKunin,AnnaRatnitzky,AlexRatnitzky
