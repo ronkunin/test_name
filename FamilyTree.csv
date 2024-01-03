@@ -1,6 +1,8 @@
 index,username,name,lastname,gender,country,birthdate,deathdate,bio,partner,mother,father
 1,1,Emma,Rumar,F,Belarus,01/01/1930,05/11/2020,Worker,PesahRumar,,
+1,1,Pesah,Rumar,F,Belarus,01/01/1930,05/11/2020,Worker,EmmaRumar,,
 2,2,Alex,Ratnitzky,M,Russia,11/05/1950,,Else,AnnaRatnitzky,RozaRatnitzky,BorisRatnitzky
+2,2,Roza,Ratnitzky,M,Russia,11/05/1950,,Else,BorisRatnitzky,,
 3,3,Mark,Kunin,M,Russia,30/10/1947,,Else,AllaKunin,,
 4,4,Anna,Ratnitzky,F,Russia,11/09/1956,,Else,AlexRatnitzky,EmmaRumar,PesahRumar
 4,4,Leon,Rumar,M,Russia,11/09/1956,,Else,,EmmaRumar,PesahRumar
