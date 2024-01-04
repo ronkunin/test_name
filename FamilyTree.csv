@@ -18,3 +18,8 @@ index,username,name,lastname,gender,country,birthdate,deathdate,bio,partner,moth
 7,7,Roi,Cur,M,Russia,17/11/1979,,Engineer,,DinaCur,YanivCur
 7,7,Rosi,Cur,M,Russia,17/11/1979,,Engineer,,DinaCur,YanivCur
 7,7,Rossi,Cur,M,Russia,17/11/1979,,Engineer,,DinaCur,YanivCur
+6,6,Alex,Kuninc,M,Russia,03/11/1976,,Engineer,AlinaKuninc,,
+7,7,Alina,Kuninc,F,Russia,17/11/1979,,Engineer,AlexKuninc,AnnaRatnitzky,AlexRatnitzky
+11,11,Ron,Kuninc,M,Israel,30/06/2005,,Child,,AlinaKuninc,AlexKuninc
+12,12,Tally,Kuninc,F,Israel,29/09/2010,,Child,,AlinaKuninc,AlexKuninc
+14,14,Noya,Kuninc,F,Israel,19/09/2017,,Child,,AlinaKuninc,AlexKuninc
