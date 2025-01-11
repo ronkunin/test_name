@@ -1,11 +1,11 @@
 index,username,name,lastname,gender,country,birthdate,deathdate,bio,partner,mother,father
-1,EmmaRumar,Emma,Rumar,F,Belarus,01/01/1930,05/11/2020,Worker,PesahRumar,,
-2,PesahRumar,Pesah,Rumar,M,Belarus,01/01/1930,05/11/2020,Worker,EmmaRumar,,
+1,EmmaRumer,Emma,Rumer,F,Belarus,01/01/1930,05/11/2020,Worker,PesahRumer,,
+2,PesahRumer,Pesah,Rumer,M,Belarus,01/01/1930,05/11/2020,Worker,EmmaRumer,,
 3,AlexRatnitzky,Alex,Ratnitzky,M,Russia,11/05/1950,,Else,AnnaRatnitzky,RozaRatnitzky,BorisRatnitzky
 4,RozaRatnitzky,Roza,Ratnitzky,F,Russia,,,Else,BorisRatnitzky,,
 5,MarkKunin,Mark,Kunin,M,Russia,30/10/1947,,Else,AllaKunin,,
-6,AnnaRatnitzky,Anna,Ratnitzky,F,Russia,11/09/1956,,Else,AlexRatnitzky,EmmaRumar,PesahRumar
-7,LeonRumar,Leon,Rumar,M,Russia,,,Driver,,EmmaRumar,PesahRumar
+6,AnnaRatnitzky,Anna,Ratnitzky,F,Russia,11/09/1956,,Else,AlexRatnitzky,EmmaRumer,PesahRumer
+7,LeonRumer,Leon,Rumer,M,Russia,,,Driver,,EmmaRumer,PesahRumer
 8,AllaKunin,Alla,Kunin,F,Russia,,,Else,MarkKunin,,
 9,AlexKunin,Alex,Kunin,M,Russia,03/11/1976,,Engineer,AlinaKunin,AllaKunin,MarkKunin
 10,AlinaKunin,Alina,Kunin,F,Russia,17/11/1979,,Engineer,AlexKunin,AnnaRatnitzky,AlexRatnitzky
@@ -27,3 +27,7 @@ index,username,name,lastname,gender,country,birthdate,deathdate,bio,partner,moth
 26,BorisRatnitzky,Boris,Ratnitzky,M,Russia,,,Else,RozaRatnitzky,,
 27,ElonNudelman,Elon,Nudelman,M,Israel,,,Else,,LubaNudelman,IgorNudelman
 28,LielNudelman,Liel,Nudelman,M,Israel,,,Else,,LubaNudelman,IgorNudelman
+29,AnnaRumer,Anna,Rumer,F,Israel,,,Else,,,LeonRumer
+30,MarinaRumer,Marina,Rumer,F,Israel,,,Else,,,LeonRumer
+31,DanielSitner,Daniel,Sitner,M,Israel,,,Else,,AnnaRumer,
+32,MayaRumer,Maya,Rumer,F,Israel,,,Else,,MarinaRumer,
