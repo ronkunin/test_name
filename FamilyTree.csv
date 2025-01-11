@@ -11,7 +11,7 @@ index,username,name,lastname,gender,country,birthdate,deathdate,bio,partner,moth
 10,AlinaKunin,Alina,Kunin,F,Russia,17/11/1979,,Engineer,AlexKunin,AnnaRatnitzky,AlexRatnitzky
 11,RonKunin,Ron,Kunin,M,Israel,30/06/2005,,Soldier,,AlinaKunin,AlexKunin
 12,TallyKunin,Tally,Kunin,F,Israel,29/09/2010,,Student,,AlinaKunin,AlexKunin
-13,NoyaKunin,Noya,Kunin,F,Israel,19/09/2017,,Child,,AlinaKunin,AlexKunin
+13,NoyaKunin,Noya,Kunin,F,Israel,19/09/2008,,Child,,AlinaKunin,AlexKunin
 14,DinaCur,Dina,Cur,F,Russia,,,Engineer,YanivCur,AnnaRatnitzky,AlexRatnitzky
 15,YanivCur,Yaniv,Cur,M,Russia,,,Engineer,DinaCur,,
 16,RoyCur,Roy,Cur,M,Russia,,,Child,,DinaCur,YanivCur
