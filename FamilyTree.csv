@@ -18,10 +18,10 @@ index,username,name,lastname,gender,country,birthdate,deathdate,bio,partner,moth
 17,ItayCur,Itay,Cur,M,Russia,,,Child,,DinaCur,YanivCur
 18,LubaLipschitz,Luba,Lipschitz,F,Russia,,,Else,YulyLipschitz,RozaRatnitzky,BorisRatnitzky
 19,YulyLipschitz,Yuly,Lipschitz,M,Russia,,,Else,LubaLipschitz,,
-20,BorisLipschitz,Boris,Lipschitz,M,Russia,,,Else,LenaLipschitz,LubaLipschitz,YulyLptz
+20,BorisLipschitz,Boris,Lipschitz,M,Russia,,,Else,LenaLipschitz,LubaLipschitz,YulyLipschitz
 21,LenaLipschitz,Lena,Lipschitz,F,Russia,,,Else,BorisLipschitz,,
-22,JodeeLipschitz,Jodee,Lipschitz,F,Israel,,,Student,,LenaLipschitz,BorisLptz
-23,EricLipschitz,Eric,Lipschitz,M,Israel,,,Student,,LenaLipschitz,BorisLptz
+22,JodeeLipschitz,Jodee,Lipschitz,F,Israel,,,Student,,LenaLipschitz,BorisLipschitz
+23,EricLipschitz,Eric,Lipschitz,M,Israel,,,Student,,LenaLipschitz,BorisLipschitz
 24,LubaNudelman,Luba,Nudelman,F,Russia,,,Engineer,IgorNudelman,AllaKunin,MarkKunin
 25,IgorNudelman,Igor,Nudelman,M,Russia,,,Engineer,LubaNudelman,,
 26,BorisRatnitzky,Boris,Ratnitzky,M,Russia,,,Else,RozaRatnitzky,,
