@@ -6,7 +6,7 @@ index,username,name,lastname,gender,country,birthdate,deathdate,bio,partner,moth
 5,MarkKunin,Mark,Kunin,M,Russia,30/10/1947,,Else,AllaKunin,,
 6,AnnaRatnitzky,Anna,Ratnitzky,F,Russia,11/09/1956,,Else,AlexRatnitzky,EmmaRumer,PesahRumer
 7,LeonRumer,Leon,Rumer,M,Russia,,,Driver,,EmmaRumer,PesahRumer
-8,AllaKunin,Alla,Kunin,F,Russia,,,Else,MarkKunin,,
+8,AllaKunin,Alla,Kunin,F,Russia,,,Else,MarkKunin,LeonidaGrigov,GrigoriGrigov
 9,AlexKunin,Alex,Kunin,M,Russia,03/11/1976,,Engineer,AlinaKunin,AllaKunin,MarkKunin
 10,AlinaKunin,Alina,Kunin,F,Russia,17/11/1979,,Engineer,AlexKunin,AnnaRatnitzky,AlexRatnitzky
 11,RonKunin,Ron,Kunin,M,Israel,30/06/2005,,Soldier,,AlinaKunin,AlexKunin
@@ -31,3 +31,8 @@ index,username,name,lastname,gender,country,birthdate,deathdate,bio,partner,moth
 30,MarinaRumer,Marina,Rumer,F,Israel,,,Else,,,LeonRumer
 31,DanielSitner,Daniel,Sitner,M,Israel,,,Else,,AnnaRumer,
 32,MayaRumer,Maya,Rumer,F,Israel,,,Else,,MarinaRumer,
+33,GrigoriGrigov,Grigori,Grigov,M,Russia,,,Else,LeonidaGrigov,,
+34,LeonidaGrigov,Leonida,Grigov,F,Russia,,,Else,GrigoriGrigov,,
+35,VovaGrigov,Vova,Grigov,M,Russia,,,Else,,LeonidaGrigov,GrigoriGrigov
+36,DimanGrigov,Diman,Grigov,M,Russia,,,Else,SvetaGrigov,,VovaGrigov
+37,SvetaGrigov,Sveta,Grigov,F,Russia,,,Else,DimanGrigov,,
