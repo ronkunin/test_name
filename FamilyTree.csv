@@ -36,3 +36,4 @@ index,username,name,lastname,gender,country,birthdate,deathdate,bio,partner,moth
 35,VovaGrigov,Vova,Grigov,M,Russia,,,Else,,LeonidaGrigov,GrigoriGrigov
 36,DimanGrigov,Diman,Grigov,M,Russia,,,Else,SvetaGrigov,,VovaGrigov
 37,SvetaGrigov,Sveta,Grigov,F,Russia,,,Else,DimanGrigov,,
+38,AbrahamKunin,Abraham,Kunin,M,Russia,,,Else,,,
