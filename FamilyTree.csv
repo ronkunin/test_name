@@ -3,7 +3,7 @@ index,username,name,lastname,gender,country,birthdate,deathdate,bio,partner,moth
 2,PesahRumer,Pesah,Rumer,M,Belarus,01/01/1930,05/11/2020,Worker,EmmaRumer,,
 3,AlexRatnitzky,Alex,Ratnitzky,M,Russia,11/05/1950,,Else,AnnaRatnitzky,RozaRatnitzky,BorisRatnitzky
 4,RozaRatnitzky,Roza,Ratnitzky,F,Russia,,,Else,BorisRatnitzky,,
-5,MarkKunin,Mark,Kunin,M,Russia,30/10/1947,,Else,AllaKunin,,
+5,MarkKunin,Mark,Kunin,M,Russia,30/10/1947,,Else,AllaKunin,,AbrahamKunin
 6,AnnaRatnitzky,Anna,Ratnitzky,F,Russia,11/09/1956,,Else,AlexRatnitzky,EmmaRumer,PesahRumer
 7,LeonRumer,Leon,Rumer,M,Russia,,,Driver,,EmmaRumer,PesahRumer
 8,AllaKunin,Alla,Kunin,F,Russia,,,Else,MarkKunin,LeonidaGrigov,GrigoriGrigov
@@ -37,3 +37,6 @@ index,username,name,lastname,gender,country,birthdate,deathdate,bio,partner,moth
 36,DimanGrigov,Diman,Grigov,M,Russia,,,Else,SvetaGrigov,,VovaGrigov
 37,SvetaGrigov,Sveta,Grigov,F,Russia,,,Else,DimanGrigov,,
 38,AbrahamKunin,Abraham,Kunin,M,Russia,,,Else,,,
+39,LikaGrigov,Lika,Grigov,F,Russia,,,Else,,SvetaGrigov,DimanGrigov
+40,LovikGrigov,Lovik,Grigov,M,Russia,,,Else,,SvetaGrigov,DimanGrigov
+41,AdamHarari,Adam,Harari,M,Israel,,,Else,,MarinaRumer,
