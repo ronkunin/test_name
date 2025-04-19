@@ -30,7 +30,7 @@ index,username,name,lastname,gender,country,birthdate,deathdate,bio,partner,moth
 29,LielNudelman,Liel,Nudelman,M,Israel,,,Else,,LubaNudelman,IgorNudelman
 30,AlexRatnitzky,Alex,Ratnitzky,M,Russia,11/05/1950,,Else,AnnaRatnitzky,RozaRatnitzky,BorisRatnitzky
 31,AnnaRatnitzky,Anna,Ratnitzky,F,Russia,11/09/1956,,Else,AlexRatnitzky,EmmaRumer,PesahRumer
-32,VovaGribov,Vova,Gribov,M,Russia,,,Else,,ElenaGribov,GrigoryGribov
+32,VovaGribov,Vova,Gribov,M,Russia,,,Else,MarinaGribov,ElenaGribov,GrigoryGribov
 33,DimanGribov,Diman,Gribov,M,Russia,,,Else,SvetaGrigov,,VovaGribov
 34,SvetaGrigov,Sveta,Gribov,F,Russia,,,Else,DimanGribov,,
 35,AbrahamKunin,Abraham,Kunin,M,Russia,,,Else,,,
@@ -44,3 +44,7 @@ index,username,name,lastname,gender,country,birthdate,deathdate,bio,partner,moth
 43,TsilyaGribov,Tsilya,Gribov,F,Russia,05/03/1904,11/01/1989,Else,SaveliyGribov,,
 44,DaniilGribov,Daniil,Gribov,M,Russia,01/01/1872,21/01/1941,Else,RivaGribov,,
 45,RivaGribov,Riva,Gribov,F,Russia,01/01/1872,22/06/1970,Else,DaniilGribov,,
+46,AlexLyubchansky,Alex,Lyubchansky,M,Russia,,,Else,DinaLyubchansky,,
+47,DinaLyubchansky,Dina,Lyubchansky,F,Russia,12/07/1970,,Else,AlexLyubchansky,MarinaGribov,VovaGribov
+48,MarinaGribov,Marina,Gribov,F,Russia,23/10/1951,10/01/2022,Else,VovaGribov,,
+49,LenaLyubchansky,Lena,Lyubchansky,F,Russia,,,Else,,DinaLyubchansky,AlexLyubchansky
