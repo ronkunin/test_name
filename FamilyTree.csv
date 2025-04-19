@@ -6,8 +6,8 @@ index,username,name,lastname,gender,country,birthdate,deathdate,bio,partner,moth
 5,NoyaKunin,Noya,Kunin,F,Israel,19/09/2017,,Child,,AlinaKunin,AlexKunin
 6,EmmaRumer,Emma,Rumer,F,Belarus,01/01/1930,05/11/2020,Worker,PesahRumer,,
 7,PesahRumer,Pesah,Rumer,M,Belarus,01/01/1930,05/11/2020,Worker,EmmaRumer,,
-8,BorisRatnitzky,Boris,Ratnitzky,M,Russia,,,Else,RozaRatnitzky,,
-9,RozaRatnitzky,Roza,Ratnitzky,F,Russia,,,Else,BorisRatnitzky,,
+8,BorisRatnitzky,Boris,Ratnitzky,M,Russia,,?,Else,RozaRatnitzky,,
+9,RozaRatnitzky,Roza,Ratnitzky,F,Russia,,?,Else,BorisRatnitzky,,
 10,LubaLipschitz,Luba,Lipschitz,F,Russia,,,Else,YulyLipschitz,RozaRatnitzky,BorisRatnitzky
 11,YulyLipschitz,Yuly,Lipschitz,M,Russia,,,Else,LubaLipschitz,,
 12,BorisLipschitz,Boris,Lipschitz,M,Russia,,,Else,LenaLipschitz,LubaLipschitz,YulyLipschitz
@@ -33,13 +33,13 @@ index,username,name,lastname,gender,country,birthdate,deathdate,bio,partner,moth
 32,VovaGribov,Vova,Gribov,M,Russia,,,Else,MarinaGribov,ElenaGribov,GrigoryGribov
 33,DimanGribov,Diman,Gribov,M,Russia,,,Else,SvetaGrigov,,VovaGribov
 34,SvetaGrigov,Sveta,Gribov,F,Russia,,,Else,DimanGribov,,
-35,AbrahamKunin,Abraham,Kunin,M,Russia,,,Else,,,
+35,AbrahamKunin,Abraham,Kunin,M,Russia,,?,Else,,,
 36,LikaGribov,Lika,Gribov,F,Russia,,,Else,,SvetaGrigov,DimanGribov
 37,LovikGribov,Lovik,Gribov,M,Russia,,,Else,,SvetaGrigov,DimanGribov
 38,MarkKunin,Mark,Kunin,M,Russia,30/10/1947,,Else,AllaKunin,,AbrahamKunin
 39,AllaKunin,Alla,Kunin,F,Russia,,,Else,MarkKunin,ElenaGribov,GrigoryGribov
 40,GrigoryGribov,Grigory,Gribov,M,Russia,26/11/1923,01/10/1993,Else,ElenaGribov,TsilyaGribov,SaveliyGribov
-41,ElenaGribov,Elena,Gribov,F,Russia,02/01/1926,,Else,GrigoryGribov,,
+41,ElenaGribov,Elena,Gribov,F,Russia,02/01/1926,?,Else,GrigoryGribov,,
 42,SaveliyGribov,Saveliy,Gribov,M,Russia,01/01/1907,01/01/1960,Else,TsilyaGribov,RivaGribov,DaniilGribov
 43,TsilyaGribov,Tsilya,Gribov,F,Russia,05/03/1904,11/01/1989,Else,SaveliyGribov,,
 44,DaniilGribov,Daniil,Gribov,M,Russia,01/01/1872,21/01/1941,Else,RivaGribov,,
