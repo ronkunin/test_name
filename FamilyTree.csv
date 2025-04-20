@@ -33,7 +33,7 @@ index,username,name,lastname,gender,country,birthdate,deathdate,bio,partner,moth
 32,VovaGribov,Vova,Gribov,M,Russia,,,Else,MarinaGribov,ElenaGribov,GrigoryGribov
 33,DimanGribov,Diman,Gribov,M,Russia,,,Else,SvetaGrigov,,VovaGribov
 34,SvetaGrigov,Sveta,Gribov,F,Russia,,,Else,DimanGribov,,
-35,AbrumKunin,Abrum,Kunin,M,Russia,1900,1978,Else,ShifraSheyvitz,,LeibaKunin
+35,AbrumKunin,Abrum,Kunin,M,Russia,1900,1978,Else,ShifraSheyvitz,KileidaRivkina,LeibaKunin
 36,LikaGribov,Lika,Gribov,F,Russia,,,Else,,SvetaGrigov,DimanGribov
 37,LovikGribov,Lovik,Gribov,M,Russia,,,Else,,SvetaGrigov,DimanGribov
 38,MarkKunin,Mark,Kunin,M,Russia,30/10/1947,,Else,AllaKunin,ShifraSheyvitz,AbrumKunin
